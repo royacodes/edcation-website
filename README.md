@@ -30,3 +30,5 @@
 to target links
       a{
       }
+      
+ 1rem = 16 pixels
