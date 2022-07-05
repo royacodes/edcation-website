@@ -11,6 +11,8 @@
     
  ## for icons
  https://iconscout.com/
+ 
+ https://iconscout.com/unicons/explore/line
      
      <!--
         ICONSCOUT CDN
@@ -32,3 +34,7 @@ to target links
       }
       
  1rem = 16 pixels
+ 
+ ##for swipe
+ 
+ https://swiperjs.com/get-started#use-swiper-from-cdn
